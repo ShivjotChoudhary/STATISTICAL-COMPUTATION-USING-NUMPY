@@ -161,7 +161,6 @@ By completing this project, you will:
 
 ## 👨‍💻 Author
 
-**Ankush Sharma**
 Aspiring ML & Data Science Developer
 
 ---
